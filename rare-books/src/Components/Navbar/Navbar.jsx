@@ -179,7 +179,7 @@ const Navbar = () => {
                 </select>
 
             </div>
-<div className='flex w-full gap-3'>
+<div className='flex w-full gap-3 overflow-scroll'>
 <img src={image} alt="" />
 <img src={image2} alt="" />
 <img src={image3} alt="" />
